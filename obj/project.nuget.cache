@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "9koDG7AIjz4=",
+  "dgSpecHash": "RXT/X6r1mp4=",
   "success": true,
-  "projectFilePath": "D:\\BRYAN\\clases\\PROGRAMACION 1\\SweetNela\\Sweetnela\\Sweetnela.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "D:\\programación I\\Sweetnela\\Sweetnela.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\OSKAR MORALES\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.13\\microsoft.netcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\OSKAR MORALES\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.13\\microsoft.windowsdesktop.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\OSKAR MORALES\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.13\\microsoft.aspnetcore.app.ref.8.0.13.nupkg.sha512",
+    "C:\\Users\\OSKAR MORALES\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.13\\microsoft.netcore.app.host.win-x64.8.0.13.nupkg.sha512"
+  ],
   "logs": []
 }
